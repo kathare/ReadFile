@@ -1,0 +1,3 @@
+Get contents
+Get details.
+Detail gotten.
